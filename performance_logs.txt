@@ -1,0 +1,53 @@
+2025-02-22 16:19:28,727 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-22 16:19:36,734 - process_scientific_document: 0.57 segundos
+2025-02-22 16:21:19,140 - get_response: 12.71 segundos
+2025-02-22 16:25:40,225 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-22 16:25:46,973 - process_scientific_document: 0.57 segundos
+2025-02-22 16:27:32,629 - get_response: 23.96 segundos
+2025-02-22 16:39:03,216 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-22 16:39:40,942 - process_scientific_document: 0.56 segundos
+2025-02-23 08:49:04,736 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-23 08:57:32,826 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-23 14:41:11,725 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-23 14:41:16,973 - process_scientific_document: 0.58 segundos
+2025-02-23 14:41:36,120 - process_scientific_document: 0.61 segundos
+2025-02-23 14:44:31,265 - get_response: 30.18 segundos
+2025-02-23 14:51:04,718 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-23 14:51:23,880 - process_scientific_document: 0.57 segundos
+2025-02-23 14:56:12,780 - get_response: 45.40 segundos
+2025-02-23 14:58:15,243 - get_response: 10.56 segundos
+2025-02-23 14:59:02,140 - get_response: 9.55 segundos
+2025-02-23 14:59:41,580 - get_response: 11.21 segundos
+2025-02-23 15:00:04,236 - get_response: 10.58 segundos
+2025-02-23 15:04:12,691 - get_response: 8.38 segundos
+2025-02-23 15:17:17,189 - get_response: 41.31 segundos
+2025-02-23 15:24:42,768 - get_response: 27.70 segundos
+2025-02-23 16:02:36,983 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-23 16:02:44,894 - process_scientific_document: 0.57 segundos
+2025-02-23 16:05:02,597 - get_response: 26.71 segundos
+2025-02-23 16:08:41,786 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-23 16:09:59,173 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-23 16:10:07,393 - process_scientific_document: 0.57 segundos
+2025-02-23 16:11:57,910 - get_response: 30.12 segundos
+2025-02-23 16:14:53,709 - get_response: 37.88 segundos
+2025-02-23 16:17:11,468 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-23 16:17:20,118 - process_scientific_document: 0.57 segundos
+2025-02-23 16:25:28,928 - get_response: 28.33 segundos
+2025-02-23 16:32:55,476 - process_scientific_document: 0.54 segundos
+2025-02-23 17:34:49,327 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-23 17:34:55,985 - process_scientific_document: 0.57 segundos
+2025-02-23 17:38:03,098 - get_response: 37.94 segundos
+2025-02-23 17:55:52,895 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-23 17:55:58,186 - process_scientific_document: 0.57 segundos
+2025-02-23 18:02:22,070 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-23 18:02:37,957 - process_scientific_document: 0.58 segundos
+2025-02-23 18:04:23,636 - get_response: 20.28 segundos
+2025-02-23 18:35:10,349 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-23 18:35:24,225 - process_scientific_document: 0.62 segundos
+2025-02-23 18:38:20,564 - get_response: 67.11 segundos
+2025-02-23 18:44:28,314 - get_response: 34.37 segundos
+2025-02-23 18:53:36,531 - get_response: 16.73 segundos
+2025-02-23 19:07:02,553 - get_response: 27.40 segundos
+2025-02-23 20:43:28,141 - Anonymized telemetry enabled. See                     https://docs.trychroma.com/telemetry for more information.
+2025-02-23 20:43:48,846 - process_scientific_document: 0.58 segundos
+2025-02-23 20:46:31,061 - get_response: 30.67 segundos
